@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-27T10:45:39 IST" name="Default suite" finished-at="2022-01-27T10:46:20 IST" duration-ms="40608">
+    <groups>
+    </groups>
+    <test started-at="2022-01-27T10:45:39 IST" name="Default test" finished-at="2022-01-27T10:46:20 IST" duration-ms="40608">
+      <class name="Test.VerifyActiTimeHeader">
+        <test-method is-config="true" signature="lounchBrowser()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:45:39 IST" name="lounchBrowser" finished-at="2022-01-27T10:46:00 IST" duration-ms="21054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method is-config="true" signature="loginActitime()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:00 IST" name="loginActitime" finished-at="2022-01-27T10:46:09 IST" duration-ms="8887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginActitime -->
+        <test-method signature="verifyUserTab()[pri:1, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:09 IST" name="verifyUserTab" finished-at="2022-01-27T10:46:13 IST" duration-ms="3684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserTab -->
+        <test-method is-config="true" signature="logOutFromActitime()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:13 IST" name="logOutFromActitime" finished-at="2022-01-27T10:46:13 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromActitime -->
+        <test-method is-config="true" signature="loginActitime()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:13 IST" name="loginActitime" finished-at="2022-01-27T10:46:14 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginActitime -->
+        <test-method signature="toVerifyReportTab()[pri:2, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:14 IST" name="toVerifyReportTab" finished-at="2022-01-27T10:46:15 IST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toVerifyReportTab -->
+        <test-method is-config="true" signature="logOutFromActitime()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:15 IST" name="logOutFromActitime" finished-at="2022-01-27T10:46:16 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFromActitime -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.VerifyActiTimeHeader@d5b810e]" started-at="2022-01-27T10:46:16 IST" name="closeBrowser" finished-at="2022-01-27T10:46:20 IST" duration-ms="4399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Test.VerifyActiTimeHeader -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
