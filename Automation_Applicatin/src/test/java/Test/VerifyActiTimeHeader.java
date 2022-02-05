@@ -25,7 +25,7 @@ public class VerifyActiTimeHeader {
 		//driver.manage().window().maximize();
 		}
 
-	
+	//Before method
 	@BeforeMethod
 	public void  loginActitime (){
 		//System.out.println("loginActitime");
